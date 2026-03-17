@@ -1,50 +1,55 @@
 # Hi, I'm Marwan Saleh
 
-**Senior Frontend & Mobile Engineer** | 14+ Years | React, Next.js, React Native
+**Senior Software Engineer & Architect** | 14+ Years | Full-Stack, Mobile, Cloud
 
-Building high-performance apps used by millions across telecom, e-commerce, and healthcare.
-
----
-
-### What I Do
-
-- **Frontend Architecture** — React.js, Next.js, TypeScript, Design Systems
-- **Mobile Development** — React Native, Expo, Cross-platform apps
-- **Tech Leadership** — Monorepos, Micro-frontends, Team mentoring
-- **AI-Augmented Dev** — Claude Code CLI, GitHub Copilot, Cursor IDE
+I build scalable systems — from React Native apps serving millions of users to microservices architectures handling complex distributed workflows. Currently at **Du Telecom** (UAE), previously led frontend modernization at **Trendyol** and **Sahibinden** (Turkey's largest platforms).
 
 ---
 
-### Career Highlights
+### What I Work On
 
-- Led frontend modernization at **Trendyol** & **Sahibinden** (Turkey's top platforms)
-- Architected multi-platform health SaaS serving thousands of patients
-- Currently building telecom platform at **Du** serving millions of users
-- Shipped products across 4 countries in 3 languages
+- **System Architecture** — Microservices, Event-Driven Systems, CQRS, Saga Patterns
+- **Cloud & Infrastructure** — AWS (EKS, Aurora, VPC), Terraform, Docker, Observability
+- **Frontend & Mobile** — React.js, Next.js, React Native, TypeScript
+- **Backend Services** — Node.js, Python (FastAPI), Java (Spring Boot), PHP (Laravel)
+- **API Design** — REST, GraphQL, OpenAPI Governance, Rate Limiting, Circuit Breakers
 
 ---
 
 ### Tech Stack
 
 ```
-Frontend    →  React.js, Next.js, TypeScript, Tailwind CSS, Redux
-Mobile      →  React Native, Expo, iOS, Android
-Backend     →  Node.js, Express, GraphQL, REST APIs
-DevOps      →  Docker, GitHub Actions, AWS, Vercel
-Testing     →  Jest, Cypress, Playwright, React Testing Library
-AI Tools    →  Claude Code CLI, GitHub Copilot, Cursor, v0
+Languages    →  TypeScript, Python, Java, PHP, Go
+Frontend     →  React.js, Next.js, Angular, Tailwind CSS
+Mobile       →  React Native, Expo, iOS, Android
+Backend      →  Node.js, Express, FastAPI, Spring Boot, Laravel
+Cloud        →  AWS (EKS, RDS, S3, VPC), Terraform, Docker
+Data         →  PostgreSQL, MongoDB, Redis, RabbitMQ
+Observability→  OpenTelemetry, Prometheus, Grafana, Jaeger
+Testing      →  Jest, Cypress, Playwright, React Testing Library
 ```
 
 ---
 
-### Featured Projects
+### Featured Work
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [nextjs-enterprise-starter](https://github.com/marwantech91/nextjs-enterprise-starter) | Production-ready Next.js 14 boilerplate | Next.js, TypeScript, Tailwind |
-| [react-native-health-app](https://github.com/marwantech91/react-native-health-app) | Cross-platform health tracking app | React Native, Expo, HealthKit |
-| [react-component-library](https://github.com/marwantech91/react-component-library) | Accessible UI component library | React, Storybook, Testing |
-| [nx-monorepo-template](https://github.com/marwantech91/nx-monorepo-template) | Full-stack monorepo architecture | Nx, React, React Native, Node |
+| Project | What It Demonstrates |
+|---------|---------------------|
+| [laravel-to-microservices-migration](https://github.com/marwantech91/laravel-to-microservices-migration) | Full monolith → microservices migration using Strangler Fig pattern, Saga orchestration, event-driven architecture |
+| [terraform-aws-infrastructure](https://github.com/marwantech91/terraform-aws-infrastructure) | Production AWS infrastructure as code — VPC, EKS, Aurora RDS with multi-environment configs |
+| [system-design-patterns](https://github.com/marwantech91/system-design-patterns) | Working implementations of CQRS, Event Sourcing, Saga Orchestrator, Distributed Cache |
+| [cloud-native-observability](https://github.com/marwantech91/cloud-native-observability) | OpenTelemetry instrumentation, SLO-based alerting, full observability stack |
+| [ai-embeddings-service](https://github.com/marwantech91/ai-embeddings-service) | Vector similarity search API with OpenAI embeddings and FastAPI |
+| [react-native-bottom-sheet](https://github.com/marwantech91/react-native-bottom-sheet) | Gesture-driven bottom sheet with snap points and keyboard handling |
+
+---
+
+### Career Highlights
+
+- Architected telecom platform at **Du** serving millions of subscribers across UAE
+- Led frontend modernization at **Trendyol** (e-commerce, 30M+ users) and **Sahibinden** (classifieds, 50M+ monthly visits)
+- Built multi-platform health SaaS with HealthKit/Google Fit integration
+- Shipped products across 4 countries in 3 languages
 
 ---
 
