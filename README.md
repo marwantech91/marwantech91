@@ -11,7 +11,7 @@ I build scalable systems — from React Native apps serving millions of users to
 - **System Architecture** — Microservices, Event-Driven Systems, CQRS, Saga Patterns
 - **Cloud & Infrastructure** — AWS (EKS, Aurora, VPC), Terraform, Docker, Observability
 - **Frontend & Mobile** — React.js, Next.js, React Native, TypeScript
-- **Backend Services** — Node.js, Python (FastAPI), Java (Spring Boot), PHP (Laravel)
+- **Backend Services** — Node.js, Python (FastAPI), Java (Spring Boot), Go, .NET, PHP (Laravel)
 - **API Design** — REST, GraphQL, OpenAPI Governance, Rate Limiting, Circuit Breakers
 
 ---
@@ -19,10 +19,10 @@ I build scalable systems — from React Native apps serving millions of users to
 ### Tech Stack
 
 ```
-Languages    →  TypeScript, Python, Java, PHP, Go
-Frontend     →  React.js, Next.js, Angular, Tailwind CSS
+Languages    →  TypeScript, Python, Java, Go, Rust, PHP, C#
+Frontend     →  React.js, Next.js, Angular, Vue 3, Tailwind CSS
 Mobile       →  React Native, Expo, iOS, Android
-Backend      →  Node.js, Express, FastAPI, Spring Boot, Laravel
+Backend      →  Node.js, Express, FastAPI, Spring Boot, .NET, Laravel
 Cloud        →  AWS (EKS, RDS, S3, VPC), Terraform, Docker
 Data         →  PostgreSQL, MongoDB, Redis, RabbitMQ
 Observability→  OpenTelemetry, Prometheus, Grafana, Jaeger
